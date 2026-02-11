@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+faker
+great-expectations
+streamlit
+matplotlib
+seaborn
+sqlalchemy
+pytest
+python-dotenv
+scipy
