@@ -55,4 +55,5 @@ flowchart TD
     E --> F[Streamlit Dashboard]
 ```
 
-For full operating guidance, troubleshooting, and output references, see [docs/runbook.md](/d:/Studies/Theepan/Studies/Project/gen%20ai%20Project/synthetic-data-quality-validator/docs/runbook.md).
+For full operating guidance, troubleshooting, and output references, see [docs/runbook.md](docs/runbook.md).
+
